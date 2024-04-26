@@ -1,4 +1,5 @@
 #!/bin/bash
 
-# Open the calculator
-gnome-calculator
+# Echo "hello world"
+echo "hello world. Let's party."
+echo "do bad stuff here"
