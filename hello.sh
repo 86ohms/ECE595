@@ -1,5 +1,4 @@
 #!/bin/bash
 
-# Echo "hello world"
-echo "hello world. Lets party."
-echo "do bad stuff here"
+#Open terminal
+gnome-terminal -- bash -c 'echo "hello world"; exec bash'
