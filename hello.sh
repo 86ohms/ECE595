@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# Open a new terminal window
-gnome-terminal -- bash -c '
-
-# Echo "hello world" in the new terminal
-echo "hello world. lets party.";
+# Echo "hello world"
+echo "hello world. Lets party."
+echo "do bad stuff here"
 
 # Keep the terminal open
-exec bash'
+exec bash
